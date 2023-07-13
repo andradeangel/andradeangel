@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andradevelop" alt="andradevelop" /></a> </p>
 
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCVhsSgfNiGODZvtlI4ATd5g">
 
 - 🔭 I’m currently working on **technical support**
 
