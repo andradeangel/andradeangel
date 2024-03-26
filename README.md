@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andradevelop&label=Profile%20views&color=0d2635&style=plastic" alt="andradevelop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andradevelop" alt="andradevelop" /></a> </p>
 
 - 🔭 I’m currently working on **technical support**
 
