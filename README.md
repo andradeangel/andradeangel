@@ -38,16 +38,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-<img src="https://goldeneagle.ai/static/images/technology/django.png" alt="django" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/django-icon-803x1024-rzi03va0.png" alt="django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/>
 <img src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" alt="linux" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"/>
+<img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="sqlserver" width="40"/>
 <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" alt="photoshop" width="40"/>
-<img src="https://w7.pngwing.com/pngs/942/865/png-transparent-adobe-premiere-pro-cc-14-3-hd-logo-thumbnail.png" alt="premier" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premier" width="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andradeangel&show_icons=true&locale=en&layout=compact" alt="andradevelop" /></p>
