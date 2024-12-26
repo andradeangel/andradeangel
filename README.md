@@ -16,13 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/andradeangel" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" height="30"/></a>
-<a href="https://twitter.com/angelblackomg" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="ex" height="30"/></a>
-<a href="https://linkedin.com/in/andradeangel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30"/></a>
-<a href="https://www.tiktok.com/@angelblackomg" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="tiktok" height="30"/></a>
-<a href="https://instagram.com/angelblackomg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30"/></a>
-<a href="https://www.facebook.com/AndradeAngelMusic" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/495/985/non_2x/facebook-social-media-logo-icon-free-png.png" alt="facebook" height="30"/></a>
-<a href="https://www.youtube.com/c/elandrade" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30"/></a>
+<a href="https://t.me/andradeangel" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" height="40"/></a>
+<a href="https://twitter.com/angelblackomg" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="ex" height="40"/></a>
+<a href="https://linkedin.com/in/andradeangel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40"/></a>
+<a href="https://www.tiktok.com/@angelblackomg" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="tiktok" height="40"/></a>
+<a href="https://instagram.com/angelblackomg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40"/></a>
+<a href="https://www.facebook.com/AndradeAngelMusic" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/495/985/non_2x/facebook-social-media-logo-icon-free-png.png" alt="facebook" height="40"/></a>
+<a href="https://www.youtube.com/c/elandrade" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" target="_blank" alt="youtube" height="40"/></a>
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCVhsSgfNiGODZvtlI4ATd5g">
 </p>
 
