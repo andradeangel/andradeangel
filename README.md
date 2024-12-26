@@ -22,8 +22,8 @@
 <a href="https://www.tiktok.com/@angelblackomg" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="tiktok" height="30"/></a>
 <a href="https://instagram.com/angelblackomg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30"/></a>
 <a href="https://www.facebook.com/AndradeAngelMusic" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/495/985/non_2x/facebook-social-media-logo-icon-free-png.png" alt="facebook" height="30"/></a>
-<a href="https://www.youtube.com/c/elandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elandrade" height="30" width="40" />
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCVhsSgfNiGODZvtlI4ATd5g"></a>
+<a href="https://www.youtube.com/c/elandrade" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30"/></a>
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCVhsSgfNiGODZvtlI4ATd5g">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
