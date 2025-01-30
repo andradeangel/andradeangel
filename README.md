@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png" alt="html5" width="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" alt="css3" width="40"/>
+<img src="https://img.icons8.com/fluent/512/css3.png" alt="css3" width="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029888.png" alt="bootstrap" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" width="40"/>
@@ -39,8 +39,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
 <img src="https://static-00.iconduck.com/assets.00/django-icon-803x1024-rzi03va0.png" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/>
 <img src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" alt="linux" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/>
