@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **development projects**
 
-- 💬 Ask me about **HTMl, CSS and UX/UI**
+- 💬 Ask me about **HTMl, CSS and systems analysis**
 
 - 📫 How to reach me **andradevelop@gmail.com**
 
