@@ -47,7 +47,3 @@
 <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" alt="photoshop" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premier" width="40"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andradeangel&show_icons=true&locale=en&layout=compact" alt="andradevelop" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andradeangel&show_icons=true&locale=en" alt="andradeangel" /></p>
