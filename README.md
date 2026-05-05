@@ -10,18 +10,18 @@
 
 - 👯 I’m looking to collaborate on **development projects**
 
-- 💬 Ask me about **HTMl, CSS and systems analysis**
+- 💬 Ask me about **Software development and vibe coding**
 
 - 📫 How to reach me **andradevelop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/andradeangel" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" width="40"/></a>
+<a href="https://t.me/andradeangel" target="_blank"> <img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1280px-Telegram_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220101141644" alt="telegram" width="40"/></a>
 <a href="https://twitter.com/angelblackomg" target="_blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="ex" width="40"/></a>
 <a href="https://linkedin.com/in/andradeangel" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40"/></a>
 <a href="https://www.tiktok.com/@angelblackomg" target="_blank"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="tiktok" width="40"/></a>
 <a href="https://instagram.com/angelblackomg" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40"/></a>
-<a href="https://www.facebook.com/AndradeAngelMusic" target="_blank"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/495/985/non_2x/facebook-social-media-logo-icon-free-png.png" alt="facebook" width="40"/></a>
+<a href="https://www.facebook.com/AndradeAngelMusic" target="_blank"> <img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/500px-Facebook_f_logo_%282019%29.svg.png" alt="facebook" width="40"/></a>
 <a href="https://www.youtube.com/@AngelBlackOMG" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" width="40"/></a>
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCaHxKQCeRAJNCuVrQReyrOQ">
 </p>
@@ -45,5 +45,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
 <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="sqlserver" width="40"/>
 <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" alt="photoshop" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premier" width="40"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Adobe_Premiere_Pro_CC_2026_icon.svg/1280px-Adobe_Premiere_Pro_CC_2026_icon.svg.png" alt="premier" width="40"/>
 </p>
