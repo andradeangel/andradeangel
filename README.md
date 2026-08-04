@@ -16,13 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/andradeangel" target="_blank"> <img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1280px-Telegram_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220101141644" alt="telegram" width="40"/></a>
-<a href="https://twitter.com/angelblackomg" target="_blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="ex" width="40"/></a>
-<a href="https://linkedin.com/in/andradeangel" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40"/></a>
-<a href="https://www.tiktok.com/@angelblackomg" target="_blank"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="tiktok" width="40"/></a>
-<a href="https://instagram.com/angelblackomg" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40"/></a>
+<a href = "mailto:correo@ejemplo.com" target="_blank"> <img align="center" src = "https://w7.pngwing.com/pngs/110/349/png-transparent-email-computer-icons-logo-email-miscellaneous-angle-logo.png" alt="Mail" width="40"/></a>
+<a href="https://t.me/andradeangel" target="_blank"> <img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1280px-Telegram_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220101141644" alt = "Telegram" width="40"/></a>
+<a href="https://linkedin.com/in/andradeangel" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "Linkedin" width="40"/></a>
+<a href="https://x.com/angelblackomg" target="_blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt = "Ex" width="40"/></a>
+<a href="https://www.tiktok.com/@angelblackomg" target="_blank"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt = "TikTok" width="40"/></a>
+<a href="https://threads.com/angelblackomg" target="_blank"> <img align="center" src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-white-icon.png" alt="Threads" width="40"/></a>
+<a href="https://instagram.com/angelblackomg" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "Instagram" width="40"/></a>
 <a href="https://www.facebook.com/AndradeAngelMusic" target="_blank"> <img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/500px-Facebook_f_logo_%282019%29.svg.png" alt="facebook" width="40"/></a>
-<a href="https://www.youtube.com/@AngelBlackOMG" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" width="40"/></a>
+<a href="https://www.youtube.com/@AngelBlackOMG" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt = "YouTube" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
